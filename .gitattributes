@@ -1,0 +1,4 @@
+# Auto detecta ficheros de texto y realiza la normalización New Line (LF) 
+text=auto
+#.txt text
+.jpg binary
